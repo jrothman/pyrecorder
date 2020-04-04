@@ -7,7 +7,7 @@ import os
 import ctypes
 from win10toast import ToastNotifier
 
-SLEEPTIME = 60
+SLEEPTIME = 180
 
 if __name__ == '__main__':
     i = 0
